@@ -17,9 +17,4 @@ program SI23-B
 * praktikum b8 : Perulangan dan limit dalam program `praktikum-b8`
 * praktikum b9 : Tebak angka 231031059-shadiq-praktikum-b9
 * tugas b9     : Dict biodata `tugas praktikum-b9`
-* praktikum b10: Penggunaan fungsi Praktikum-b10
-* tugas b10-1  : Program pembagiaan 231031059-shadiq-tugas10-no1
-* tugas b10-2a : Program penjumlahan waktu 231031059-shadiq-tugas10-no2-a
-* tugas b10-2b : Program selisih waktu 231031059-shadiq-tugas10-no2-b
-* praktikum b11: Fungsi rekursif fibonacci 
 * Mid Semester : Program kasir 231031038-middle-SIB
