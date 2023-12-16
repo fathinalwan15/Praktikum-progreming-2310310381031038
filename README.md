@@ -18,4 +18,8 @@ program SI23-B
 * praktikum b9 : Tebak angka `231031038-praktikum-b9`
 * tugas b9     : Dict biodata `tugas praktikum-b9`
 * praktikum b10: penggunaan fungsi `praktikum b10`
+* tugas b10-1  : program pembagiaan `231031038-fathin alwan tahir-tugas10-1
+* tugas b10-2a : perogram penjumlahan waktu `231031038-fathin alwan tahir-tugas10-2a
+* tugas b10-2b : perogram selisih waktu `231031038-fathin alwan tahir-tugas10-2b
+* praktikum b11: fungsi rekursif fibonacci `Fathin Alwan Tahir-231031038-praktikum b11
 * Mid Semester : Program kasir `231031038-middle-SIB`
