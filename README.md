@@ -17,4 +17,5 @@ program SI23-B
 * praktikum b8 : Perulangan dan limit dalam program `praktikum-b8`
 * praktikum b9 : Tebak angka `231031038-praktikum-b9`
 * tugas b9     : Dict biodata `tugas praktikum-b9`
+* praktikum b10: penggunaan fungsi `praktikum b10`
 * Mid Semester : Program kasir `231031038-middle-SIB`
